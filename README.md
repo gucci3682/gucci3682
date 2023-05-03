@@ -6,7 +6,7 @@ I am a Business Analytics graduate from NUS with a stronger interest for program
 - 🌱 I’m currently learning React and React Native
 - 💻 Open to all software programming opportunities!
 
-<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="300" />
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
 ✉️ **Ping me!**
 
