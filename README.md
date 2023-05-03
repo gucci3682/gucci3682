@@ -8,8 +8,6 @@ I am a Business Analytics graduate from NUS with a stronger interest for program
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci3682&layout=compact&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  -->
-
 ## Ping me! ✉️
 
 If there are any interesting projects you would like me to be a part of, feel free to connect with me!
@@ -17,7 +15,6 @@ If there are any interesting projects you would like me to be a part of, feel fr
 <p align="left">
   <a href="https://www.linkedin.com/in/nggerald98/" target="_blank"> <img src="https://content.linkedin.com/content/dam/me/brand/en-us/brand-home/logos/In-Blue-Logo.png.original.png" title="LinkedIn" alt="LinkedIn" height="30" style="vertical-align:top; margin:4px"></a>
   <a href="mailto:ng.gerald.1998@gmail.com" target="_blank"> <img src="https://www.pikpng.com/pngl/b/194-1942846_mail-circle-icon-png-clipart.png" title="Email" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
- 
 </p>
 
 ## Languages 🧰
@@ -32,7 +29,6 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height="30" alt="SQL" title="SQL" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" height="30" alt="R" title="R" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" height="30" alt="Solidity" title="Solidity" style="vertical-align:top; margin:4px" />
-
 </p>
 
 ## Tools & Frameworks 🛠️
@@ -49,7 +45,6 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" style="vertical-align:top; margin:4px">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" title="Canva" style="vertical-align:top; margin:4px"/>
   <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" height="30" alt="Figma" title="Figma" style="vertical-align:top; margin:4px">
-
 </p>
 
 📊 This week I spent my time on:
