@@ -1,11 +1,11 @@
 # Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
 
 I am a Business Analytics graduate with a stronger interest for programming than data analytics (oops). Currently, I am more specialised in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
-🔭 I’m currently working on my personal portfolio website (better late than never I guess)
-🌱 I’m currently learning React and React Native
-💻 Open to all software programming opportunities!
+* 🔭 I’m currently working on my personal portfolio website (better late than never I guess)
+* 🌱 I’m currently learning React and React Native
+* 💻 Open to all software programming opportunities!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci3682&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) ![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=gucci3682&show_icons=true&theme=transparent)(https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gucci3682&layout=compact&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats) ![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=gucci3682&show_icons=true&theme=transparent&count_private=true)(https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **gucci3682/gucci3682** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
