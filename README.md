@@ -1,6 +1,6 @@
 # Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
 
-I am a Business Analytics graduate with a stronger interest for programming than data analytics (oops). Currently, I am more specialised in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
+I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
 
 - 🔭 I’m currently working on my personal portfolio website (better late than never I guess)
 - 🌱 I’m currently learning React and React Native
@@ -21,3 +21,35 @@ If there are any interesting projects you would like me to be a part of, feel fr
 </p>
 
 <br/>
+
+## Languages 🧰
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="40" alt="Typescript" title="Typescript" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="40" alt="Python" title="Python" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" height="40" alt="Java" title="Java" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/javascript/javascript-plain.svg" height="40" alt="Javascript" title="Javascript" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/html5/html5-original.svg" height="40" alt="HTML" title="HTML" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/css3/css3-plain.svg" height="40" alt="CSS" title="CSS" style="vertical-align:top; margin:4px" />
+  <img src="https://w7.pngwing.com/pngs/167/148/png-transparent-microsoft-azure-sql-database-microsoft-sql-server-database-blue-text-logo-thumbnail.png" height="40" alt="SQL" title="SQL" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/r/r-original.svg" height="40" alt="R" title="R" style="vertical-align:top; margin:4px" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" height="40" alt="Solidity" title="Solidity" style="vertical-align:top; margin:4px" />
+
+</p>
+
+## Tools & Frameworks 🛠️
+
+<p align="center">
+  <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="40" alt="Node.js" title="Node.js" style="vertical-align:top; margin:4px">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" height="40" alt="ClickHouse" title="ClickHouse" style="vertical-align:top; margin:4px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" title="MongoDB" style="vertical-align:top; margin:4px" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="40" alt="MySQL" title="MySQL" style="vertical-align:top; margin:4px" />
+  <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="40" alt="Git" title="Git" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="40" alt="VS Code" title="VS Code" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="AWS Services" title="AWS Services" style="vertical-align:top; margin:4px">
+  <img src="https://yt3.googleusercontent.com/ytc/AGIKgqODCV_jjMtQoQUvOCKwGBN27Ljos1oKONo8wDuzLA=s900-c-k-c0x00ffffff-no-rj" height="40" alt="Microsoft PowerBI" title="Microsoft PowerBI" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" height="40" alt="Vue.js" title="Vue.js" style="vertical-align:top; margin:4px">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="Canva" title="Canva" style="vertical-align:top; margin:4px"/>
+  <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" height="40" alt="Figma" title="Figma" style="vertical-align:top; margin:4px">
+
+</p>
