@@ -47,7 +47,7 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" height="30" alt="Figma" title="Figma" style="vertical-align:top; margin:4px">
 </p>
 
-📊 This week I spent my time on:
+📊 WakaTime Stats:
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
