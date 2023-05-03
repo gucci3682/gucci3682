@@ -49,7 +49,8 @@ If there are any interesting projects you would like me to be a part of, feel fr
 
 📊 This week I spent my time on:
 
-[![Gerald's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gucci3682&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 📈 My GitHub Stats:
 
