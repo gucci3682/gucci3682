@@ -8,7 +8,7 @@ I am a Business Analytics graduate from NUS with a stronger interest for program
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="400" />
 
-## Ping me! ✉️
+✉️ **Ping me!**
 
 If there are any interesting projects you would like me to be a part of, feel free to connect with me!
 
@@ -17,7 +17,7 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <a href="mailto:ng.gerald.1998@gmail.com" target="_blank"> <img src="https://www.pikpng.com/pngl/b/194-1942846_mail-circle-icon-png-clipart.png" title="Email" alt="Email" height="30" style="vertical-align:top; margin:4px"></a>
 </p>
 
-## Languages 🧰
+🧰 **Languages**
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="30" alt="Typescript" title="Typescript" style="vertical-align:top; margin:4px" />
@@ -31,7 +31,7 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/solidity/solidity-original.svg" height="30" alt="Solidity" title="Solidity" style="vertical-align:top; margin:4px" />
 </p>
 
-## Tools & Frameworks 🛠️
+🛠️ **Tools & Frameworks**
 
 <p align="left">
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="30" alt="Node.js" title="Node.js" style="vertical-align:top; margin:4px">
@@ -47,11 +47,11 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" height="30" alt="Figma" title="Figma" style="vertical-align:top; margin:4px">
 </p>
 
-📊 WakaTime Stats:
+📊 **WakaTime Stats:**
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
-📈 My GitHub Stats:
+📈 **My GitHub Stats:**
 
 [![Gerald's GitHub stats](https://github-readme-stats.vercel.app/api?username=gucci3682&show_icons=true&theme=transparent&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
