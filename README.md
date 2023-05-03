@@ -1,4 +1,6 @@
-# Hi, nice to meet you! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Gerald!;Nice+to+meet+you!)](https://git.io/typing-svg)
 
 I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
 
