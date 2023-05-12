@@ -3,7 +3,7 @@
 I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
 
 - 🔭 I’m currently working on my personal portfolio website (better late than never I guess)
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently learning React (NextJS)
 - 💻 Open to all software programming opportunities!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="340" />
