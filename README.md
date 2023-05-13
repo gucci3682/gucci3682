@@ -1,8 +1,8 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Gerald!;Nice+to+meet+you!&vCenter=true&size=25&width=300&height=35)](https://git.io/typing-svg)
 
-I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself to pursue my final goal of becoming a fullstack developer!
+I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself in pursuit of being a more well-rounded developer!
 
-- 🔭 I’m currently working on my personal portfolio website (better late than never I guess)
+- 🔭 I’m currently brainstorming for an open-source webapp that helps users in Singapore's context (Ideas welcomed!)
 - 🌱 I’m currently learning React (NextJS)
 - 💻 Open to all software programming opportunities!
 
