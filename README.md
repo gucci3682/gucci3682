@@ -52,20 +52,20 @@ If there are any interesting projects you would like me to be a part of, feel fr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2023 - To: 05 July 2023
+From: 03 May 2023 - To: 06 July 2023
 
-Total Time: 20 hrs 56 mins
+Total Time: 21 hrs 9 mins
 
-TypeScript   11 hrs 49 mins  >>>>>>>>>>>>>>-----------   56.44 %
-Markdown     2 hrs 53 mins   >>>----------------------   13.78 %
-Java         2 hrs 11 mins   >>>----------------------   10.44 %
-Other        1 hr 8 mins     >------------------------   05.45 %
-Text         46 mins         >------------------------   03.67 %
-XML          42 mins         >------------------------   03.38 %
-CSS          39 mins         >------------------------   03.14 %
-JSON         20 mins         -------------------------   01.62 %
-JavaScript   16 mins         -------------------------   01.30 %
-YAML         4 mins          -------------------------   00.38 %
+TypeScript   11 hrs 50 mins  >>>>>>>>>>>>>>-----------   55.96 %
+Markdown     2 hrs 53 mins   >>>----------------------   13.64 %
+Java         2 hrs 11 mins   >>>----------------------   10.33 %
+Other        1 hr 8 mins     >------------------------   05.39 %
+Text         46 mins         >------------------------   03.63 %
+XML          42 mins         >------------------------   03.34 %
+CSS          39 mins         >------------------------   03.11 %
+JSON         20 mins         -------------------------   01.61 %
+JavaScript   16 mins         -------------------------   01.29 %
+SQL          11 mins         -------------------------   00.92 %
 ```
 
 <!--END_SECTION:waka-->
