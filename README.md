@@ -1,10 +1,6 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="40px" width="40px"> [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi,+I'm+Gerald!;Nice+to+meet+you!&vCenter=true&size=25&width=300&height=35)](https://git.io/typing-svg)
 
-I am a Business Analytics graduate from NUS with a stronger interest for programming than data analytics (oops). Currently, I am more familiar in backend programming but I am in the midst of developing myself in pursuit of being a more well-rounded developer!
-
-- 🔭 I’m currently brainstorming for an open-source webapp that helps users in Singapore's context (Ideas welcomed!)
-- 🌱 I’m currently learning React (NextJS)
-- 💻 Open to all software programming opportunities!
+Currently doing DevOps, open to any software programming opportunities!
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="340" />
 
@@ -37,12 +33,13 @@ If there are any interesting projects you would like me to be a part of, feel fr
 🛠️ **Tools & Frameworks**
 
 <p align="left">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/256px-Ansible_logo.svg.png" height="30" alt="Ansible" title="Ansible" style="vertical-align:top; margin:4px" />
   <img src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" height="30" alt="Node.js" title="Node.js" style="vertical-align:top; margin:4px">
   <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/Clickhouse.png" height="30" alt="ClickHouse" title="ClickHouse" style="vertical-align:top; margin:4px" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" title="MongoDB" style="vertical-align:top; margin:4px" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" height="30" alt="MySQL" title="MySQL" style="vertical-align:top; margin:4px" />
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" height="30" alt="MySQL" title="MySQL" style="vertical-align:top; margin:4px" />
   <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" height="30" alt="Git" title="Git" style="vertical-align:top; margin:4px">
-  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" height="30" alt="VS Code" title="VS Code" style="vertical-align:top; margin:4px">
+  <img src="https://download.logo.wine/logo/PostgreSQL/PostgreSQL-Logo.wine.png" height="30" alt="Postgre" title="Postgre" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS Services" title="AWS Services" style="vertical-align:top; margin:4px">
   <img src="https://yt3.googleusercontent.com/ytc/AGIKgqODCV_jjMtQoQUvOCKwGBN27Ljos1oKONo8wDuzLA=s900-c-k-c0x00ffffff-no-rj" height="30" alt="Microsoft PowerBI" title="Microsoft PowerBI" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" style="vertical-align:top; margin:4px">
