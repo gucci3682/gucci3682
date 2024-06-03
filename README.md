@@ -20,6 +20,9 @@ If there are any interesting projects you would like me to be a part of, feel fr
 🧰 **Languages**
 
 <p align="left">
+  <img src="https://gist.githubusercontent.com/fsackur/9e4f98aaa3ba3984407e92e62a5f63bd/raw/6c858c46726541b48ddaaebab29c41c07a196394/PowerShell.svg" height="30" alt="PowerShell" title="PowerShell" style="vertical-align:top; margin:4px" />
+  <img src="https://freepngimg.com/icon/download/file/10375-yaml-file-format.png" height="30" alt="YAML" title="YAML" style="vertical-align:top; margin:4px" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/512px-Bash_Logo_Colored.svg.png?20180723054350" height="30" alt="Bash" title="Bash" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" height="30" alt="Typescript" title="Typescript" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/python/python-original.svg" height="30" alt="Python" title="Python" style="vertical-align:top; margin:4px" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" height="30" alt="Java" title="Java" style="vertical-align:top; margin:4px" />
@@ -43,7 +46,6 @@ If there are any interesting projects you would like me to be a part of, feel fr
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/amazonwebservices/amazonwebservices-original.svg" height="30" alt="AWS Services" title="AWS Services" style="vertical-align:top; margin:4px">
   <img src="https://yt3.googleusercontent.com/ytc/AGIKgqODCV_jjMtQoQUvOCKwGBN27Ljos1oKONo8wDuzLA=s900-c-k-c0x00ffffff-no-rj" height="30" alt="Microsoft PowerBI" title="Microsoft PowerBI" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vuejs/vuejs-original.svg" height="30" alt="Vue.js" title="Vue.js" style="vertical-align:top; margin:4px">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="Canva" title="Canva" style="vertical-align:top; margin:4px"/>
   <img src="https://cdn.shopify.com/s/files/1/0284/7024/7555/products/figma2x_1048x.png?v=1591893627" height="30" alt="Figma" title="Figma" style="vertical-align:top; margin:4px">
 </p>
 
