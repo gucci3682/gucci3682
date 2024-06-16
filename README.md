@@ -51,7 +51,7 @@ If there are any interesting projects you would like me to be a part of, feel fr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2023 - To: 15 June 2024
+From: 03 May 2023 - To: 16 June 2024
 
 Total Time: 227 hrs 31 mins
 
