@@ -51,17 +51,17 @@ If there are any interesting projects you would like me to be a part of, feel fr
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 May 2023 - To: 26 August 2024
+From: 03 May 2023 - To: 27 August 2024
 
-Total Time: 257 hrs 3 mins
+Total Time: 257 hrs 32 mins
 
-YAML           171 hrs 36 mins >>>>>>>>>>>>>>>>>--------   66.76 %
-TypeScript     47 hrs 37 mins  >>>>>--------------------   18.53 %
-PowerShell     7 hrs 7 mins    >------------------------   02.77 %
+YAML           172 hrs 5 mins  >>>>>>>>>>>>>>>>>--------   66.82 %
+TypeScript     47 hrs 37 mins  >>>>>--------------------   18.49 %
+PowerShell     7 hrs 7 mins    >------------------------   02.76 %
 Markdown       6 hrs 4 mins    >------------------------   02.36 %
 Bash           5 hrs 4 mins    -------------------------   01.97 %
-Jinja2         3 hrs 36 mins   -------------------------   01.41 %
-JSON           3 hrs 9 mins    -------------------------   01.23 %
+Jinja2         3 hrs 36 mins   -------------------------   01.40 %
+JSON           3 hrs 9 mins    -------------------------   01.22 %
 Other          2 hrs 57 mins   -------------------------   01.15 %
 Java           2 hrs 47 mins   -------------------------   01.08 %
 Docker         1 hr 22 mins    -------------------------   00.53 %
